@@ -2,7 +2,7 @@
 	IMC Project
 </h1>
 
-<p">
+<p>
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-instalação">Instalações</a> •
