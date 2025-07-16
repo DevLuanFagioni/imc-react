@@ -6,7 +6,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-instalação">Instalações</a> •
-  <a href="#-funcionalidadeso">Instalações</a> •
+ <a href="#-funcionalidadeso">Instalações</a> •
  <a href="#-autor">Autor</a> • 
  <a href="#-licença">Licença</a>
 </p>
@@ -31,7 +31,6 @@ Possui as funcionalidades de:
 <a id="-tecnologias"></a>
 
 ## 🛠 Tecnologias
-
 As seguintes ferramentas foram usadas na construção do projeto:
 
 &nbsp;
