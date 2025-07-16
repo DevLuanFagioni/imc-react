@@ -1,8 +1,8 @@
-<h1 align="center"> 
-	 IMC Project
+<h1> 
+	IMC Project
 </h1>
 
-<p align="center">
+<p">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-instalação">Instalações</a> •
@@ -36,7 +36,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 &nbsp;
 
-<p align="center">
+<p>
   <a href= "https://html5.org/"><img alt="html 5 badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href= "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS 3 badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1572B6&logo=CSS3&label=Style&message=CSS3&color=1572B6"></a>
   <a href= "https://www.javascript.com/"><img alt="JavaScript badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F7DF1E&logo=JavaScript&label=Language&message=JavaScript&color=F7DF1E"></a>
@@ -68,16 +68,11 @@ npx create-react-app meu-app-do-react --template typescript
 
 Você pode acessar o link abaixo e visualizar o deploy:
 
-&nbsp;
-
 https://projeto-imc-seven.vercel.app/
 
 &nbsp;
 
 ou baixando o projeto e inserir os seguintes comandos:
-
-&nbsp;
-
 1.
 ```bash
 npm install
