@@ -17,7 +17,6 @@
 
 ## 💻 Sobre o projeto
 
-Devido a minha decisão de emagrecer e melhorar minha saúde, tive a ideia de fazer algo relacionado a esse tema (fitness e saude). 
 Neste projeto resolvi criar uma Landing Page com a funcionalidade de mostrar o resultado de um cálculo de IMC indicando em qual classificação o usuário se encaixa e o paramêtro baseado nessa classificação, de acordo com os dados inseridos e enviados pelo usuário (altura e peso).
 A página deve ser compatível com diversos tipos de resolução de telas, por exemplo: a. Desktop (1920px) b. Laptop (1440px) c. Tablet (768px) d. Mobile (375px)
 
@@ -38,12 +37,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 &nbsp;
 
 <p align="center">
-  <a href= "https://html5.org/"><img alt="html 5 badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=E34F26&logo=HTML5&label=Markup Language&message=HTML5&color=E34F26"></a>
+  <a href= "https://html5.org/"><img alt="html 5 badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href= "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS 3 badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1572B6&logo=CSS3&label=Style&message=CSS3&color=1572B6"></a>
   <a href= "https://www.javascript.com/"><img alt="JavaScript badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F7DF1E&logo=JavaScript&label=Language&message=JavaScript&color=F7DF1E"></a>
   <a href= "https://www.typescriptlang.org/"><img alt="TypeScript badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=3178c6&logo=TypeScript&label=Language&message=TypeScript&color=3178c6"></a>
   <a href= "https://reactjs.org/"><img alt="React badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=61dafb&logo=React&label=Framework&message=React&color=61dafb"></a>
-  <a href= "https://code.visualstudio.com/download"><img alt="vscode download" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=007ACC&logo=Visual Studio Code&label=IDE&message=Visual Studio Code&color=007ACC"></a>
 </p>
 
 ---
@@ -99,7 +97,7 @@ npm run dev
 
 Olá, eu sou Luan Fagioni, desenvolvedor Front-end/Full-Stack
 
-<p align="center">
+<p>
   <a href="mailto:luanfagioni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href= "https://www.linkedin.com/in/luanfagioni/"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href= "https://www.instagram.com/devluanfagioni/"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
