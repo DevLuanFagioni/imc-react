@@ -67,7 +67,7 @@ npx create-react-app meu-app-do-react --template typescript
 
 Você pode acessar o link abaixo e visualizar o deploy:
 
-https://projeto-imc-seven.vercel.app/
+https://imc-react-fagioni.netlify.app/
 
 &nbsp;
 
